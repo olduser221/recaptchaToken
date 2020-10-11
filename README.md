@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Svelte, Rust**
 
-- 📫 How to reach me **christopher@perhap.dev**
+- 📫 How to reach me **hi@christopher.dev**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
