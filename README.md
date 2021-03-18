@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Vaccine Buddy](https://vaccinebuddy.org/)
 
-- 🌱 I’m currently learning **Svelte, Rust, and Java**
+- 🌱 I’m currently learning **React & C#**
 
 - 📝 I regulary write articles on [https://christopher.dev](https://christopher.dev)
 
